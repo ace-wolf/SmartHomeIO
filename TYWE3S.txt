@@ -1,0 +1,9 @@
+Also tried this with the TYWE3S as found in:
+https://www.amazon.de/gp/product/B076J96M22/
+
+More info here:
+https://github.com/arendst/Sonoff-Tasmota/wiki/TYWE3S
+https://github.com/arendst/Sonoff-Tasmota/issues/1190
+
+Needs to be flashed with NodeMCU9 (ESP-12) board config via arduino.
+Change pinout accordingly.
